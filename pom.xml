@@ -11,9 +11,9 @@
   <dependencies>
 
     <dependency>
-      <groupId>org.apache.xmlgraphics</groupId>
-      <artifactId>batik-swing</artifactId>
-      <version>1.9</version>
+      <groupId>org.apache.activemq</groupId>
+      <artifactId>activemq-all</artifactId>
+      <version>5.4.1</version>
     </dependency>
 <!--           
     <dependency>
